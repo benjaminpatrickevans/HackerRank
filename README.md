@@ -23,7 +23,12 @@ DATA STRUCTURES
 
 ALGORITHMS
 
- - Todo
+- [Sorting: Bubble Sort](https://github.com/ben-ix/HackerRank/blob/master/Cracking%20the%20Coding%20Interview/Algorithms/Sorting-%20Bubble%20Sort.java)
+- [Sorting: Comparator](https://github.com/ben-ix/HackerRank/blob/master/Cracking%20the%20Coding%20Interview/Algorithms/Sorting-%20Comparator.java)
+- [Binary Search: Ice Cream Parlor](https://github.com/ben-ix/HackerRank/blob/master/Cracking%20the%20Coding%20Interview/Algorithms/Binary%20Search-%20Ice%20Cream%20Parlor.java)
+- Merge Sort: Counting Inversions
+- DFS: Connected Cell in a Grid
+- BFS: Shortest Reach in a Graph
 
 TECHNIQUES/CONCEPTS
 
